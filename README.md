@@ -9,7 +9,7 @@ Triple-S (Simple Storage Service) — это REST API, реализующее ф
 - Обработка HTTP-запросов в XML-формате
 
 ## Требования
-- Go 1.20+
+- Go 1.22+
 
 ## Установка и запуск
 ```sh
